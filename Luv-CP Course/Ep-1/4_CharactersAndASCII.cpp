@@ -10,3 +10,5 @@ int main(){
     cout << (int) b << endl;
     cout << a - b;           // This prints the difference values of two characters which are ascii values 
 }
+
+// https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
