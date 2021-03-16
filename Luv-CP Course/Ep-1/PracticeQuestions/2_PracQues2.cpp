@@ -15,7 +15,7 @@ int main() {
     cout << a << endl;
     cout << b << endl;
     cout << c << endl;
-    cout << d  << endl;
-    cout << e << endl;
+    cout << fixed << d << endl;
+    cout << fixed << e << endl;
     return 0;
 }
